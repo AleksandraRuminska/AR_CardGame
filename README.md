@@ -7,7 +7,7 @@ The application assumes the existence of one player who plays against an automat
 The models used in the game where from Unity package, open source websites or created from an image with the use of PIFuHD. The models were later on edited in Blender. The characters do not always look exactly as on the card, but they bear at least some resemblance.
 
 
-![image](https://github.com/AleksandraRuminska/AR_CardGame/assets/83085295/1c7124d0-2629-4f39-ac1a-16b192e4d80d)
+*** ![image](https://github.com/AleksandraRuminska/AR_CardGame/assets/83085295/1c7124d0-2629-4f39-ac1a-16b192e4d80d)
 
-![image](https://github.com/AleksandraRuminska/AR_CardGame/assets/83085295/98d17324-cd21-4460-80c7-05fb816def6c)
+*** ![image](https://github.com/AleksandraRuminska/AR_CardGame/assets/83085295/98d17324-cd21-4460-80c7-05fb816def6c)
 
